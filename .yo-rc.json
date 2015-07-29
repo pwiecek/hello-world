@@ -1,0 +1,29 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "sabre-c3",
+        "email": "piotr.wiecek@sabre.com"
+      },
+      "libraryName": {
+        "original": "sabre-c3",
+        "camelized": "sabreC3",
+        "dasherized": "sabre-c3",
+        "slugified": "sabre-c3",
+        "parts": [
+          "sabre",
+          "c3"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": false,
+      "includeModuleServices": false,
+      "includeAngularModuleResource": true,
+      "includeAngularModuleCookies": true,
+      "includeAngularModuleSanitize": true,
+      "librarySrcDirectory": "src/sabre-c3",
+      "libraryUnitTestDirectory": "test/unit/sabre-c3",
+      "libraryUnitE2eDirectory": "test/e2e/sabre-c3"
+    }
+  }
+}
